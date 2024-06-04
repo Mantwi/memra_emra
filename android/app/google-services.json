@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000481718760",
+    "project_id": "memra-5fb76",
+    "storage_bucket": "memra-5fb76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000481718760:android:dfe14a6792d34f5468645d",
+        "android_client_info": {
+          "package_name": "com.example.memra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmfbGIrl4lDf6X4uC7n5ImYD3ibQJlTLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
